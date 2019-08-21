@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "optionvalues": [
+    {"type": 1 , "name": "Female"}
+   ]
 }
