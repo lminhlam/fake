@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "optionvalues": [
-    {"type": 1 , "name": "Female" },
-    {"type": 2 , "name": "Female" }
+    { "id": 1, "name": "Female" },
+    { "id": 2, "name": "Female" }
    ]
 }
