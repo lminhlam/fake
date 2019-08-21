@@ -30,12 +30,12 @@
   },
   "optionvalues" : [
      {
-       "type" : "sex",
+       "type" : 1,
        "value": "female",
-       "description" "Female"
+       "description": "Female"
      },
       {
-       "type" : "sex",
+       "type" : 1,
        "value": "male",
        "description" "Male"
      }
