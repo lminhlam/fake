@@ -13,6 +13,6 @@
   },
   "optionvalues": [
     { "type": 1, "name": "Female" },
-    { "type": 2, "name": "Female" }
+    { "type": 1, "name": "Female" }
    ]
 }
